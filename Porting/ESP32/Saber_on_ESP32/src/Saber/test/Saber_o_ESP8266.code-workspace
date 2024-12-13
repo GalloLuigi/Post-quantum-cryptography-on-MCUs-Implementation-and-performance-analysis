@@ -1,0 +1,13 @@
+{
+    "folders": [
+        {
+            "name": "Saber_o_ESP8266",
+            "path": "../../.."
+        }
+    ],
+    "settings": {
+        "files.associations": {
+            "random": "cpp"
+        }
+    }
+}
